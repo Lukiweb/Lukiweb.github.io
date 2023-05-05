@@ -29,7 +29,7 @@ video.addEventListener('fullscreenchange', function (e) {
 
 // main buttons
 function diggbbtn(){
-    window.location.assign('./daten.html')
+    window.location.assign('./info.html')
 }
 
 
