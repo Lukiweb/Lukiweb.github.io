@@ -46,6 +46,3 @@ function websiteinfobtn(){
 function marios271redirect(){
     window.location.assign('https://marios271.github.io/')
 }
-function bgvidlink(){
-    window.location.assign('https://youtu.be/PG7htnJw0Ng')
-}
