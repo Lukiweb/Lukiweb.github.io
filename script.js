@@ -1,6 +1,3 @@
-// Variables
-const diggbsitepasswd = 'diggbisnotsonice'
-
 // Disable right-click context menu
 document.addEventListener('contextmenu', function (e) {
     e.preventDefault();
@@ -29,7 +26,7 @@ video.addEventListener('fullscreenchange', function (e) {
 
 // main buttons
 function diggbbtn(){
-    window.location.assign('./info.html')
+    window.location.assign('./general.html')
 }
 
 
@@ -38,7 +35,7 @@ function backbtn(){
     history.back()
 }
 function websiteinfobtn(){
-    window.location.assign('./website-info.html')
+    window.location.assign('./website-info')
 }
 
 
