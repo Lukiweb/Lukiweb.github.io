@@ -28,8 +28,9 @@ video.addEventListener('fullscreenchange', function (e) {
 function diggbbtn(){
     window.location.assign('./general.html')
 }
-
-
+function news(){
+    window.location.assign('./news.html')
+}
 // header buttons
 function backbtn(){
     history.back()
