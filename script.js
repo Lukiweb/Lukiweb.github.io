@@ -25,11 +25,11 @@ video.addEventListener('fullscreenchange', function (e) {
 });
 
 // main buttons
-function diggbbtn(){
-    window.location.assign('./general.html')
+function general(){
+    window.location.assign('./general')
 }
 function news(){
-    window.location.assign('./news.html')
+    window.location.assign('./news')
 }
 // header buttons
 function backbtn(){
